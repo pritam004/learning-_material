@@ -21,6 +21,13 @@ https://notebooks.quantumstat.com/
 https://github.com/aymericdamien/TensorFlow-Examples
 
 
-4. 
+4. BERTs 
+
+https://github.com/google-research/bert
+
+
+5. GANs
+
+https://deephunt.in/the-gan-zoo-79597dc8c347
 
 
