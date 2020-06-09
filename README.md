@@ -30,4 +30,15 @@ https://github.com/google-research/bert
 
 https://deephunt.in/the-gan-zoo-79597dc8c347
 
+6. Deep Learning MIT 
+
+https://github.com/aamini/introtodeeplearning/
+
+7. Auto Timeseries Prediction
+
+https://github.com/AutoViML/Auto_TS
+
+
+ 
+
 
