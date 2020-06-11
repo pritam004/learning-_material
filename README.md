@@ -42,6 +42,10 @@ https://github.com/AutoViML/Auto_TS
 
 https://dvl.in.tum.de/teaching/adl4cv-ss20/
 
+9. Daily Data Science Questions
+
+https://www.linkedin.com/feed/hashtag/?keywords=dailydatasciencequestions
+
 
  
 
