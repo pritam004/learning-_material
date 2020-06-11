@@ -45,6 +45,7 @@ https://dvl.in.tum.de/teaching/adl4cv-ss20/
 9. Daily Data Science Questions
 
 https://www.linkedin.com/feed/hashtag/?keywords=dailydatasciencequestions
+https://machinelearninginterview.com/
 
 
  
