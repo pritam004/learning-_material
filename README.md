@@ -38,6 +38,10 @@ https://github.com/aamini/introtodeeplearning/
 
 https://github.com/AutoViML/Auto_TS
 
+8. Advanced Deep Learning for Computer Vision Course
+
+https://dvl.in.tum.de/teaching/adl4cv-ss20/
+
 
  
 
